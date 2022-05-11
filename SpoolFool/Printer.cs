@@ -104,7 +104,7 @@ namespace SpoolFool
             printerInfo.pPrintProcessor = "winprint";
             printerInfo.pDatatype = "RAW";
 
-            IntPtr hPrinter = AddPrinter("dc01", 2, ref printerInfo);
+            IntPtr hPrinter = AddPrinter("MANAGE01", 2, ref printerInfo);
 
             return hPrinter;
         }
