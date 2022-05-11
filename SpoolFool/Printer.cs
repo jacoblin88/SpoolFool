@@ -99,7 +99,7 @@ namespace SpoolFool
         {
             PRINTER_INFO_2 printerInfo = new PRINTER_INFO_2();
             printerInfo.pPrinterName = printerName;
-            printerInfo.pDriverName = "Microsoft XPS Document Writer v4";
+            printerInfo.pDriverName = "AlexPrinter";
             printerInfo.pPortName = "PORTPROMPT:";
             printerInfo.pPrintProcessor = "winprint";
             printerInfo.pDatatype = "RAW";

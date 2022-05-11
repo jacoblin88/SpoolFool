@@ -1,0 +1,6 @@
+C:\Users\alex\Desktop\SpoolFool\SpoolFool\bin\Release\SpoolFool.exe.config
+C:\Users\alex\Desktop\SpoolFool\SpoolFool\bin\Release\SpoolFool.exe
+C:\Users\alex\Desktop\SpoolFool\SpoolFool\bin\Release\SpoolFool.pdb
+C:\Users\alex\Desktop\SpoolFool\SpoolFool\obj\Release\SpoolFool.csproj.CoreCompileInputs.cache
+C:\Users\alex\Desktop\SpoolFool\SpoolFool\obj\Release\SpoolFool.exe
+C:\Users\alex\Desktop\SpoolFool\SpoolFool\obj\Release\SpoolFool.pdb
